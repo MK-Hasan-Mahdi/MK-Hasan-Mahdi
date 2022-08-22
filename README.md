@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/istiakhasan/github-readme-activity-graph"><img alt="Istiak Hasan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=istiakhasan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MK-Hasan-Mahdi/github-readme-activity-graph"><img alt="Kamrul Hasan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MK-Hasan-Mahdi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
