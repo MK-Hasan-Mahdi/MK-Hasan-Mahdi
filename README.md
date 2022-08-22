@@ -4,6 +4,8 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MK-Hasan-Mahdi)]
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 ## 🙋‍♂️ About Me
 
 
