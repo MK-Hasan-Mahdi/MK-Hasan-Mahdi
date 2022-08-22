@@ -1,25 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=093FF7&background=D525FF00&width=435&lines=Hi+there%2C+I'm+Kamrul+Hasan)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ About Me
-
-
-
-
-
-
-
-
-
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Redux, NodeJS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/istiakhasan)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-dev-d085d.web.app/)**
 
-- 📫 How to reach me **istieak.hasan1996@gmail.com**
+- 📫 How to reach me **kamrulhasan.dev1@gmail.com**
 
-- ⚡ Fun fact **Online Games,Football,Cricket,chess**
+- ⚡ Fun fact **Chess**
 
 ## :computer: Technologies that I know
 <br>
