@@ -17,21 +17,14 @@ https://github.com/MK-Hasan-Mahdi/MK-Hasan-Mahdi/issues/1#issue-1346907879
 <br>
 <p align="center">
 
-![HTML](https://user-images.githubusercontent.com/91777690/186008734-02027f0e-b9cf-41e1-a334-a15e89efa097.png)
-    
-![css](https://user-images.githubusercontent.com/91777690/186008796-b76a8534-403e-4443-9540-74a082bf663b.png)
-    
-![tailwind](https://user-images.githubusercontent.com/91777690/186008844-173732bd-3bdd-47a3-ae3d-55fbf262dea4.png)
-    
-![Bootsrap](https://user-images.githubusercontent.com/91777690/186008863-862b0f2b-303e-4fe5-bfeb-c48c644a4df9.png)
-    
-![JavaScript](https://user-images.githubusercontent.com/91777690/186008930-468178ab-5528-4b55-aead-4a33d55b7281.png)
-    
-![react](https://user-images.githubusercontent.com/91777690/186008899-7c6c33f4-7835-4087-95a8-e8eb1ac909ed.png)
-    
-![node](https://user-images.githubusercontent.com/91777690/186009059-909199b2-9cc9-4b46-b69f-1f86e4488d01.png)
-    
-![express](https://user-images.githubusercontent.com/91777690/186009101-6cbf7ed1-c93a-49f9-89fb-a95a606be7f5.png)
+![HTML](https://user-images.githubusercontent.com/91777690/186008734-02027f0e-b9cf-41e1-a334-a15e89efa097.png) <br/> <br/>
+![css](https://user-images.githubusercontent.com/91777690/186008796-b76a8534-403e-4443-9540-74a082bf663b.png) <br/> <br/>
+![tailwind](https://user-images.githubusercontent.com/91777690/186008844-173732bd-3bdd-47a3-ae3d-55fbf262dea4.png)  <br/> <br/>
+![Bootsrap](https://user-images.githubusercontent.com/91777690/186008863-862b0f2b-303e-4fe5-bfeb-c48c644a4df9.png)  <br/> <br/>
+![JavaScript](https://user-images.githubusercontent.com/91777690/186008930-468178ab-5528-4b55-aead-4a33d55b7281.png)  <br/> <br/>
+![react](https://user-images.githubusercontent.com/91777690/186008899-7c6c33f4-7835-4087-95a8-e8eb1ac909ed.png)  <br/> <br/>   
+![node](https://user-images.githubusercontent.com/91777690/186009059-909199b2-9cc9-4b46-b69f-1f86e4488d01.png)   <br/> <br/>
+![express](https://user-images.githubusercontent.com/91777690/186009101-6cbf7ed1-c93a-49f9-89fb-a95a606be7f5.png) <br/> <br/>
 
 
 </p><br/>
