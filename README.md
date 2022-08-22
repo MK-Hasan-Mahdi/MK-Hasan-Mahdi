@@ -13,18 +13,14 @@ https://github.com/MK-Hasan-Mahdi/MK-Hasan-Mahdi/issues/1#issue-1346907879
 - ⚡ Fun fact **Chess**
 
 ## :computer: Skills:
+![HTML](https://user-images.githubusercontent.com/91777690/186011056-6b271d72-41be-47d5-9341-980e7cb10708.png)
+![css](https://user-images.githubusercontent.com/91777690/186011086-d801b59c-d5ff-4f5c-a20e-f39b682474c5.png)
+  ![Bootsrap](https://user-images.githubusercontent.com/91777690/186011112-71ef420d-133a-4b50-abfe-3d1ae7360f74.png)
+
 
 <br>
 <p align="center">
-![HTML](https://user-images.githubusercontent.com/91777690/186010697-3996d1ef-37b0-49be-9f3f-d585190b0fd6.png)
-![css](https://user-images.githubusercontent.com/91777690/186010718-8c648e20-593c-44dd-a558-9769d8cef244.png)
-![Bootsrap](https://user-images.githubusercontent.com/91777690/186010745-01a2cc42-b02f-46f7-a743-25f2d500fbf0.png)
-![tailwind](https://user-images.githubusercontent.com/91777690/186010770-3139fe99-dab3-46dd-a3f7-f1e88f11583c.png)
-![JavaScript](https://user-images.githubusercontent.com/91777690/186010811-f585c2b6-9a71-4dbe-a5c8-961bbbc2e879.png)
-![react](https://user-images.githubusercontent.com/91777690/186010828-b48dbcf1-75ba-49ce-98b1-f355cf06a79f.png)
-![node](https://user-images.githubusercontent.com/91777690/186010856-83250b63-1d2d-454f-b60a-2de868876eef.png)
-![express](https://user-images.githubusercontent.com/91777690/186010890-933a6f7c-06dd-4223-9f11-8cef05e1d53b.png)
-
+    
 </p><br/>
 
 ## 🚀 Languages and Tools:
