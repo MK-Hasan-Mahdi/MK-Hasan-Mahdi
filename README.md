@@ -14,8 +14,8 @@ https://github.com/MK-Hasan-Mahdi/MK-Hasan-Mahdi/issues/1#issue-1346907879
 
 ## :computer: Skills:
 ![HTML](https://user-images.githubusercontent.com/91777690/186011056-6b271d72-41be-47d5-9341-980e7cb10708.png)
-![css](https://user-images.githubusercontent.com/91777690/186011086-d801b59c-d5ff-4f5c-a20e-f39b682474c5.png)
-  ![Bootsrap](https://user-images.githubusercontent.com/91777690/186011112-71ef420d-133a-4b50-abfe-3d1ae7360f74.png)
+   ![css](https://user-images.githubusercontent.com/91777690/186011086-d801b59c-d5ff-4f5c-a20e-f39b682474c5.png)
+   ![Bootsrap](https://user-images.githubusercontent.com/91777690/186011112-71ef420d-133a-4b50-abfe-3d1ae7360f74.png)
 
 
 <br>
