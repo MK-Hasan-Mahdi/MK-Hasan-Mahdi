@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=093FF7&background=D525FF00&width=435&lines=Hi+there%2C+I'm+Kamrul+Hasan)](https://git.io/typing-svg)
 
+https://github.com/MK-Hasan-Mahdi/MK-Hasan-Mahdi/issues/1#issue-1346907879
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Redux, NodeJS**
 
@@ -14,7 +15,7 @@
 ## :computer: Technologies that I know
 <br>
 <p align="center">
-https://github.com/MK-Hasan-Mahdi/MK-Hasan-Mahdi/issues/1#issue-1346907879
+
 
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
