@@ -13,8 +13,15 @@
 - ⚡ Fun fact **Chess**
 
 ## :computer: Skills:
-![HTML](https://user-images.githubusercontent.com/91777690/186011056-6b271d72-41be-47d5-9341-980e7cb10708.png)   
-![css](https://user-images.githubusercontent.com/91777690/186011468-7f275020-86c1-4232-b443-e4c68b75fd62.png)
+![HTML](https://user-images.githubusercontent.com/91777690/186011570-beaaad62-bcf0-4a05-9855-739e48aebf65.png)
+![css](https://user-images.githubusercontent.com/91777690/186011583-807760c6-5455-4ea4-bc7f-c00549d8dc7f.png)
+![Bootsrap](https://user-images.githubusercontent.com/91777690/186011597-54fdc07a-62fa-4f35-bef3-bd5ffac136db.png)
+![tailwind](https://user-images.githubusercontent.com/91777690/186011603-95e10696-0de2-49d3-a46d-1dba59898011.png)
+![JavaScript](https://user-images.githubusercontent.com/91777690/186011613-fcb5e569-4ba3-4c06-a856-aa5601e3c028.png)
+![react](https://user-images.githubusercontent.com/91777690/186011633-4d037b85-ed40-420e-8d1e-2b2efb2d0cf3.png)
+![node](https://user-images.githubusercontent.com/91777690/186011649-b7d99346-08d4-40f2-a724-aa16875e0397.png)
+![express](https://user-images.githubusercontent.com/91777690/186011657-1d2ba9cf-5040-4bb1-9722-7f57cd524ceb.png)
+
 
 
 <br>
