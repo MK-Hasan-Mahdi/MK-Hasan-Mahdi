@@ -14,7 +14,8 @@
 ## :computer: Technologies that I know
 <br>
 <p align="center">
-<img src="https://github.com/mk-hasan-mahdi/mk-hasan-mahdi/blob/main/images/icons/HTML.png"/>
+https://github.com/MK-Hasan-Mahdi/MK-Hasan-Mahdi/issues/1#issue-1346907879
+
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
