@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=31BAF7&background=D525FF00&width=435&lines=Hi+there%2C+I+am+Kamrul+Hasan)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ About Me
 
