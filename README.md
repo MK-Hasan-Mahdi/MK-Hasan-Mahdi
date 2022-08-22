@@ -2,10 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-### Hi there 👋, I'm Kamrul Hasan
-Web Developer
 
-Skills: REACT / JS / HTML / CSS / Bootrap / Tailwind / NodeJS / ExpressJS / MongoDB
 
 
 
